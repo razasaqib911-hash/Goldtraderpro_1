@@ -1,0 +1,6 @@
+{
+  "name": "GoldTraderPro",
+  "description": "ICT automated trading bot and live charting system for Forex and Crypto with Deriv and Binance feeds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
